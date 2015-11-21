@@ -19,3 +19,7 @@
 ### あやしいわーるど＠クリスマス島
 - http://www.strangeworld.ne.jp/
 - http://www.strangeworld.ne.jp/cgi-bin/bbs/bbs.cgi
+
+### あやしいわーるどメイソ掲示板TM
+- http://meiso.s147.xrea.com/
+- http://meiso.s147.xrea.com/bbs.cgi
