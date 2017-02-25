@@ -3,6 +3,7 @@
 ## 掲示板
 
 ### あやしいわーるど＠みさお
+- http://misao.on.arena.ne.jp/pr/index.htm
 - http://misao.on.arena.ne.jp/cgi-bin/bbs.cgi
 
 ### あやしいわーるど＠暫定(暫定退避)
