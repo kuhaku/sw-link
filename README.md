@@ -15,6 +15,9 @@
 - http://honten.info/
 - http://honten.info/bbs/cgi-bin/bbs.cgi
 
+### あやしいわーるどII非公認退避
+- https://strangeworld.securesite.jp/cgi-bin/bbs.cgi
+
 ### あやしいわーるど＠クリスマス島
 - http://www.strangeworld.ne.jp/
 - http://www.strangeworld.ne.jp/cgi-bin/bbs/bbs.cgi
