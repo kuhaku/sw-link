@@ -32,7 +32,6 @@
 
 ### あやしいわーるど＠クリスマス島
 - http://www.strangeworld.ne.jp/
-- http://www.strangeworld.ne.jp/cgi-bin/bbs/bbs.cgi
 
 ### あやしいわーるどメイソ掲示板TM
 - http://meiso.s147.xrea.com/
@@ -45,6 +44,12 @@
 
 ### あやしいわーるど＠おこめ.暫暫定
 - https://komekuitai.sakura.ne.jp/znti/bbs.php
+
+### あやしいわーるど＠マリア様がみてる
+- http://www.strangeworld.ne.jp/bbs/bbs.cgi
+
+### ぷちこ
+- http://www.strangeworld.ne.jp/puchiko/bbs.cgi
 
 ### はじあや
 - http://strange.kurumi.ne.jp/bbs2.cgi
