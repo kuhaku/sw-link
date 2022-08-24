@@ -64,6 +64,9 @@
 ### あやしいわーるど＠おーさーむー～改め☆
 - http://strange.kurumi.ne.jp/bbs3.cgi
 
+### あやしいわーるど＠軍艦島
+- http://wsi.if.land.to/php/bbs.php
+
 ### 裏みらい
 - https://edoya.nyanta.jp/urami/bbs.cgi
 
