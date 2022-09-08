@@ -51,6 +51,9 @@
 ### ぷちこ
 - http://www.strangeworld.ne.jp/puchiko/bbs.cgi
 
+### Remix
+- http://www.strangeworld.ne.jp/remix/bbs.cgi
+
 ### はじあや
 - http://strange.kurumi.ne.jp/bbs2.cgi
 
