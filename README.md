@@ -98,6 +98,10 @@
 
 - http://wsi.if.land.to/php/bbs.php
 
+### Strange World@Heyuri
+
+- https://dis.heyuri.net/sw/
+
 ### 裏みらい
 
 - https://edoya.nyanta.jp/urami/bbs.cgi
