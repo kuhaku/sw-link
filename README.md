@@ -11,16 +11,16 @@
 
 ### あやしいわーるど＠暫定(暫定退避)
 
-#### 暫定wiki
-
-- http://hayate.ws/zanwiki/
-
 #### 以下リンク切れ
 
 - http://zangzang.poox360.net/
 - http://zangzang.poox360.net/cgi-bin/bbs.cgi
 
-### あやしいわーるど＠暫定
+#### 暫定wiki (リンク切れ)
+
+- http://hayate.ws/zanwiki/
+
+### あやしいわーるど＠おこめ.暫暫定
 
 - https://komekuitai.sakura.ne.jp/znti/bbs.php
 
@@ -53,10 +53,6 @@
 ### あやしくないわーるど＠ふぁっしょん
 
 - http://at-fashion.jp/cgi-bin/bbs.cgi
-
-### あやしいわーるど＠おこめ.暫暫定
-
-- https://komekuitai.sakura.ne.jp/znti/bbs.php
 
 ### あやしいわーるど＠マリア様がみてる
 
