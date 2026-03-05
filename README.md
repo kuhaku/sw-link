@@ -40,6 +40,15 @@
 ### あやしいわーるど＠クリスマス島
 
 - http://www.strangeworld.ne.jp/
+- http://www.strangeworld.ne.jp/bbs/bbs.cgi
+
+#### ぷちこ
+
+- http://www.strangeworld.ne.jp/puchiko/bbs.cgi
+
+#### Remix
+
+- http://www.strangeworld.ne.jp/remix/bbs.cgi
 
 ### あやしいわーるどメイソ掲示板TM
 
@@ -53,18 +62,6 @@
 ### あやしくないわーるど＠ふぁっしょん
 
 - http://at-fashion.jp/cgi-bin/bbs.cgi
-
-### あやしいわーるど＠マリア様がみてる
-
-- http://www.strangeworld.ne.jp/bbs/bbs.cgi
-
-### ぷちこ
-
-- http://www.strangeworld.ne.jp/puchiko/bbs.cgi
-
-### Remix
-
-- http://www.strangeworld.ne.jp/remix/bbs.cgi
 
 ### はじあや
 
