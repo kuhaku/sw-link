@@ -91,6 +91,10 @@
 
 - http://wsi.if.land.to/php/bbs.php
 
+### あやしいわーるど＠けなし屋
+
+- https://perceptron.lovepop.jp/bbs/index.php
+
 ### Strange World@Heyuri
 
 - https://dis.heyuri.net/sw/
