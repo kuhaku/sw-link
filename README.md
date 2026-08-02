@@ -117,6 +117,10 @@
 
 ## サイト
 
+### misao全文検索
+
+- http://usamin.elpod.org/cgi-bin/swlog.cgi
+
 ### ぁゃιぃWalker
 
 - http://strangewalker.web.fc2.com/index.html
